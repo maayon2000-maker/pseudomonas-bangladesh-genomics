@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Analysis files: Pseudomonas aeruginosa from Bangladesh, India and Pakistan, public-genome comparison"
+type: software
+authors:
+  - family-names: "Ayon"
+    given-names: "Mohammad Motahar Hossain"
+    affiliation: "Department of Microbiology, BRAC University, Dhaka, Bangladesh"
+  - family-names: "Bhattacharjee"
+    given-names: "Rupayan Parash"
+    affiliation: "Department of Microbiology, BRAC University, Dhaka, Bangladesh"
+license: MIT
+repository-code: "https://github.com/[your-username]/[repository-name]"
